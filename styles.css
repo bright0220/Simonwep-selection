@@ -104,7 +104,7 @@ h2 {
 
 main {
     width: 100%;
-    max-width: 830px;
+    max-width: 860px;
     margin: 1.5em auto;
     padding-bottom: 10rem;
 }
@@ -125,6 +125,7 @@ main .boxes {
     border-radius: 15px;
     padding: 15px;
     user-select: none;
+    margin: 0 10px;
 }
 
 main .boxes.green,
